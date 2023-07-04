@@ -1,1 +1,1 @@
-# JavaSmallprograms
+# JavaSmallPrograms
